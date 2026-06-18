@@ -2,3 +2,6 @@ Hi my name is leo this is first commit
 How are you ?
 whats up ?
 i am fine and you ?
+My name is Leo
+I am from in syria
+my age is 18
